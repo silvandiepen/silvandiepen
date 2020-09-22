@@ -1,4 +1,4 @@
-### Hi! I am Sil van Diepen, this is a my Github page. If you want to find out more, check my tiny website -> www.sil.mt
+# Hi! I am Sil van Diepen, this is a my Github page. If you want to find out more, check my tiny website → www.sil.mt
 
 <!--
 **silvandiepen/silvandiepen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
